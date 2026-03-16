@@ -4,3 +4,12 @@ remote_theme: jekyll/minima@d4d779a
 author:
    name: awesomeosep
    email: your-email@domain.com
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+nav_pages:
+  - about.md
+social_links:
+  - title: About me on Github
+    icon: github
+    url: "https://github.com/awesomeosep"
