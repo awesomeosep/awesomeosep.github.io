@@ -7,9 +7,10 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-nav_pages:
-  - about.md
-social_links:
-  - title: About me on Github
-    icon: github
-    url: "https://github.com/awesomeosep"
+minima:
+   nav_pages:
+     - about.md
+   social_links:
+     - title: About me on Github
+       icon: github
+       url: "https://github.com/awesomeosep"
