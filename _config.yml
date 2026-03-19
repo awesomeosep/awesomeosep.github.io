@@ -1,6 +1,6 @@
 title: awesomeosep
 description: portfolio
-theme: jekyll/minima@d4d779a
+remote_theme: jekyll/minima@d4d779a
 author:
    name: awesomeosep
    email: your-email@domain.com
