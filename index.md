@@ -5,7 +5,7 @@ permalink: /
 ---
 
 #### Operation: Falcon Nation
-- 6-ft-long enhanced recreation of the classic board game Operation built using industrial PLC technology integrating lights, sounds, and buzzing tongs! Built to address digital isolation facing young people and raise awareness of community causes.
+- 6-ft-long enhanced recreation of the classic board game Operation built using industrial PLC technology integrating lights, sounds, and buzzing tongs! Built to address digital isolation facing young people and birng awareness to and fundraise for community causes.
 - Github repository: https://github.com/ldnano/o-fn
 
 #### GHF360 Health Apps <img src="https://img.shields.io/badge/in_progress-yellow?style=for-the-badge" height="20">
