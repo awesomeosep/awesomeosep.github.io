@@ -9,8 +9,8 @@ plugins:
   - jekyll-seo-tag
 minima:
    nav_pages:
-     - about.md
      - index.md
+     - about.md
    social_links:
      - title: About me on Github
        icon: github
