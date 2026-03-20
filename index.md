@@ -21,3 +21,10 @@ permalink: /
 - Dashboard: https://dtidatascience3.shinyapps.io/school-covid-dashboard/
 <img src="/schooldash.png" alt="Charts of COVID-19 trends in US public school district" width="500" />
 
+#### AI Music Reocmmendations
+- AI-driven (regression and neural network) music recommendations and hit-song prediction project programmed in Python using skikit-learn to analyze similarity in genre, metadata, and timbre.
+- Coded in Python using scikit-learn's logistic regression, support vector classifier, K-nearest neighbors, Gaussian Naive Bayes, and multi-layer perceptron.
+
+#### Civic Center Reporting App
+- Web app that collects public reports to improve government-provided services. Aimed to improve basic services provided to public by government that are often overlooked and substandard, especially in lower-income communities and countries.
+
