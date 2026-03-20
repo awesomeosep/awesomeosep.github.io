@@ -18,5 +18,5 @@ permalink: /
 - Dashboard created using RMarkdown, flexdashboard, and Shiny interactive components and deployed on shinyapps.io.
 - Github repository: https://github.com/awesomeosep/school-covid-dashboard
 - Dashboard: https://dtidatascience3.shinyapps.io/school-covid-dashboard/
-
+<img src="/schooldash.png" alt="Charts of COVID-19 trends in US public school district" width="500" />
 
